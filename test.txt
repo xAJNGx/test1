@@ -1,0 +1,4 @@
+for ch in str1:
+    if ch ==" ":
+        continue
+    print(f"{ch}")
